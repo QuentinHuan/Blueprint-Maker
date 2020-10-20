@@ -1,2 +1,2 @@
-# Blueprint-Maker
-Tool to make blueprints, plans and drawings
+# GL_ModelViewer
+OpenGL 3d model viewer
